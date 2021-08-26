@@ -23,6 +23,7 @@
     "guard-for-in": "off",
     "no-restricted-syntax": "off",
     "object-curly-newline": "off",
-    "object-curly-spacing": "warn"
+    "object-curly-spacing": "warn",
+    "react/destructuring-assignment": "off"
   }
 }
