@@ -21,6 +21,8 @@
     // for Chapter 5
     "max-classes-per-file": "off",
     "guard-for-in": "off",
-    "no-restricted-syntax": "off"
+    "no-restricted-syntax": "off",
+    "object-curly-newline": "off",
+    "object-curly-spacing": "warn"
   }
 }
